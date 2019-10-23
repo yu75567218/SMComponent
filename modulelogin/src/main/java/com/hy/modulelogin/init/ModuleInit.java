@@ -1,4 +1,4 @@
-package com.hy.modulelogin;
+package com.hy.modulelogin.init;
 
 import android.app.Application;
 import android.util.Log;

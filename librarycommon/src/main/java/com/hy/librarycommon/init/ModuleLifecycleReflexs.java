@@ -8,7 +8,7 @@ package com.hy.librarycommon.init;
 
 public class ModuleLifecycleReflexs {
     //登录验证模块
-    private static final String LoginInit = "com.hy.modulelogin.ModuleInit";
+    private static final String LoginInit = "com.hy.modulelogin.init.ModuleInit";
 
     public static String[] initModuleNames = {LoginInit};
 }
